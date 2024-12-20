@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning python and deep learning.
+📫 How to reach me: QQ895309109
 <!--
 **B-lunatic/B-lunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
